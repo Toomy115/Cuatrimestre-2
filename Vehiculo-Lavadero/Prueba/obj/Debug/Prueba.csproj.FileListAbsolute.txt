@@ -1,0 +1,9 @@
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\bin\Debug\Prueba.exe.config
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\bin\Debug\Prueba.exe
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\bin\Debug\Prueba.pdb
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\bin\Debug\Vehiculo-Lavadero.dll
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\bin\Debug\Vehiculo-Lavadero.pdb
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\obj\Debug\Prueba.exe
+D:\Documentos\Programas\2º Cuatrimestre\Vehiculo-Lavadero\Prueba\obj\Debug\Prueba.pdb

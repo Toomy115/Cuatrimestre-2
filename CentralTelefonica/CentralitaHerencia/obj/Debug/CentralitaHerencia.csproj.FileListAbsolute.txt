@@ -1,0 +1,10 @@
+D:\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+D:\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+D:\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

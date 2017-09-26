@@ -1,0 +1,52 @@
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojResolveAssemblyReference.cache
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Llamada.resources
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.Cache
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+F:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+F:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+F:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+F:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.dll
+F:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.pdb
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojResolveAssemblyReference.cache
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.Cache
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmLlamada.resources
+F:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmLlamadaProvincial.resources
+D:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+D:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+D:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+D:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.dll
+D:\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.pdb
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojResolveAssemblyReference.cache
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmLlamada.resources
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.Cache
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmLocal.resources
+D:\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmProvincial.resources
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.dll
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.pdb
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojResolveAssemblyReference.cache
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmLlamada.resources
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmLocal.resources
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.frmProvincial.resources
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.Cache
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.CoreCompileInputs.cache
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+F:\2º Cuatrimestre\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb

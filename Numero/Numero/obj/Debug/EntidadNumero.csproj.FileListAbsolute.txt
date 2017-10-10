@@ -1,0 +1,5 @@
+D:\Numero\Numero\bin\Debug\Numero.dll
+D:\Numero\Numero\bin\Debug\Numero.pdb
+D:\Numero\Numero\obj\Debug\EntidadNumero.csprojResolveAssemblyReference.cache
+D:\Numero\Numero\obj\Debug\Numero.dll
+D:\Numero\Numero\obj\Debug\Numero.pdb
